@@ -19,12 +19,12 @@ function resetName() {
     }
 }
 function clearNick() {
-    if (document.getElementById('nickField').value == 'Nickname'){
+    if (document.getElementById('nickField').value == 'Social Security Number'){
         document.getElementById('nickField').value = '';
     }
 }
 function resetNick() {
     if (document.getElementById('nickField').value == ''){
-        document.getElementById('nickField').value = 'Nickname';
+        document.getElementById('nickField').value = 'Social Security Number';
     }
 }

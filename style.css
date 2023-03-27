@@ -83,7 +83,7 @@ footer {
 	text-transform: uppercase;
 	background: #a2a50d;
 	padding: .8em 1em .7em;
-	border: 0;
+	border: 0;	
 	border-bottom: 3px solid #7d820c;
 	margin-top: 15px;
 }
@@ -97,4 +97,11 @@ footer {
 }
 .textfield:focus {
 	background: #FBF8D2;
+}
+#rules {
+	font-family: 'Bebas Neue', cursive;
+	font-size: 30px;
+}
+.border {
+	
 }
